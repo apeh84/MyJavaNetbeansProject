@@ -7,7 +7,7 @@ package Ticketingapp;
 
 /**
  *
- * @author user
+ * @author Gabriel
  */
 public interface Pricing {
     public double routePrice(Route route);

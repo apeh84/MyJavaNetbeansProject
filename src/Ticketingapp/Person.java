@@ -7,7 +7,7 @@ package Ticketingapp;
 
 /**
  *
- * @author user
+ * @author Gabriel
  */
 public class Person {
      String name;
