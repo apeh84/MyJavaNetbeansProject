@@ -7,7 +7,7 @@ package Ticketingapp;
 
 /**
  *
- * @author user
+ * @author Gabriel
  */
 import java.util.ArrayList;
 import java.util.List;
