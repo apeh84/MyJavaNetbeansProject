@@ -7,7 +7,7 @@ package Ticketingapp;
 
 /**
  *
- * @author user
+ * @author Gabriel
  */
 import java.awt.Dimension;
 import java.text.DecimalFormat;
